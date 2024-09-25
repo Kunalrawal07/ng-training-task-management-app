@@ -16,7 +16,7 @@
 
 // mongoose.set('strictQuery', true); // Or false, depending on your preference
 
-// mongoose.connect('mongodb+srv://kunalrawal:kunalrawal@cluster0.7szni.mongodb.net/logintesting', { useNewUrlParser: true, useUnifiedTopology: true })
+// mongoose.connect('mongodb+srv://kunalrawal:**********@cluster0.7szni.mongodb.net/logintesting', { useNewUrlParser: true, useUnifiedTopology: true })
 //   .then(() => console.log('Connected to MongoDB'))
 //   .catch(err => console.error('Could not connect to MongoDB...', err));
 
