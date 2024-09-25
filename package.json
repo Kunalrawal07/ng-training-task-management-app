@@ -1,0 +1,17 @@
+{
+    "name": "server",
+    "version": "1.0.0",
+    "description": "Your project description",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.21.0",
+        "mongoose": "^6.13.3"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
